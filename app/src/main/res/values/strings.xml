@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieReviews</string>
+    <string name="movie_image_descr">Movie image</string>
+    <string name="review_title">Review</string>
+    <string name="api_date_format">yyyy-mm-dd</string>
+    <string name="date_format">dd.MM.yyyy</string>
+    <string name="opening_date_label">Opening Date:</string>
+</resources>
